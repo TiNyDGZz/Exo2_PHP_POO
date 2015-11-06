@@ -1,0 +1,16 @@
+.fixed-bg {
+    background-image: url("img/form.png");
+    min-height: 610px;
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+}
+.white{
+    color: white;
+}
+.padding-top{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
